@@ -1,0 +1,88 @@
+body{
+	width: 510px;
+	margin: auto;
+	background-color: black;
+
+	
+		}
+h1 {
+	text-align: center;
+	margin-top: 67px;
+
+}	
+h1 a {
+	text-decoration: none;
+	color:  white;
+}	
+h2 {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	color: white;
+
+}	
+#formulaire {
+
+	
+	margin: auto;
+	text-align: right;
+    background-color:rgb(0, 223, 200);
+    font-weight: bold;
+    padding-bottom: 34px;
+   
+    
+    
+}
+
+input {
+	display: block;
+	width: 150px;
+	float: right;
+	margin-left: 50px;
+	margin-right: 70px;
+
+	
+}
+
+.connexAuto {
+	font-weight: normal;
+	margin-right: 10px;
+}
+
+.se_connecter {
+	margin-top: 40px;
+	margin-right: 105px;	
+	
+}
+
+.wrong {
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -70px;
+	}
+
+.ok {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 20px;
+	color: white;
+}
+
+.ampoule {
+    display: block;
+    float: right;
+    margin-top: -33px;
+    margin-left: 470px;
+
+
+
+    height: 30px;
+    border: 1px solid red;
+   
+
+}
+
+
+

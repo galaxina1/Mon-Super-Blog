@@ -1,0 +1,206 @@
+
+h1, h3
+{
+    text-align:center;
+}
+h1 {
+    
+    color: white;
+}
+h3
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin:auto;
+    width: 600px;
+    
+}
+
+
+body {
+    width: 600px;
+    margin: auto; 
+    background-color: black; 
+    margin-bottom: 150px;
+
+
+}
+.identifierinscrire {
+   
+    text-align: right;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* _________________________*/
+
+.bienvenue {
+    margin-top: 30px;
+    text-align: left;
+    color: white;
+}
+.deconnexion,.bienvenue {
+    font-weight: bold;
+    
+   
+}
+
+.deconnexion {
+    margin-top: -20px;
+    text-align: right;
+}
+
+.deconnexion a {
+    color: white;
+}
+
+.deconnexion a:hover {
+    color: blue;
+}
+
+/* -------------------------- */
+
+.identifierinscrire a {
+    color:  white;
+}
+
+.identifierinscrire a:hover {
+    color: blue;
+}
+
+.news 
+{
+    background-color:rgb(0, 223, 200); 
+    margin-top:0px;
+    width:590px; 
+    margin:auto;
+    padding-left: 10px;
+    color:black;
+}
+/*  -----------------------  */
+
+.commentaires {
+    
+    width: 600px;
+    margin:auto;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.date {
+    font-style: italic;
+}
+.pages {
+
+    width: 600px;
+    margin:auto;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.pages a {
+    color: white;
+}
+.pages a:hover {
+    color: blue;
+
+}
+
+h2,h4{
+    width: 600px;
+    margin:auto;
+    color:white;
+    
+}
+p {
+    width: 600px;
+    margin:auto;
+    color:black;
+
+}
+
+
+strong {
+    font-size: 1.1em;
+    font-weight: bold;
+
+    
+}
+
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+
+/* Apparence */
+
+/* Ampoule */
+.ampoule {
+    height: 30px;
+    border: 1px solid red;
+   
+    margin-top: -32px;
+    /* margin-bottom: 40px; */
+    display:block;
+    float: right;
+
+     /*text-align: right;
+    margin-left: 0px; */
+    
+
+}
+/* Affichage de l'image */
+.imageUploads {
+
+
+      width: 580px; 
+      height: auto; 
+      margin-bottom: 20px; 
+      
+}
+
+.photo {
+    text-align: center;
+    
+}
+
+/* Marge du bas boutons image et Ajouter */
+.imageAjouterMessage {
+    display: block;
+    float: left;
+    /* margin-bottom: 200px; */
+    margin-top: -30px;
+   
+}
+
+/* Icone Musique */
+
+.iconeMusique {
+    height: 30px;
+    border: 1px solid black;
+    margin-top: -32px;
+    display: block;
+    float: right;
+    margin-right: 35px;
+    
+    border: 1px solid red;
+}
+
+/* Bouton Ajouter */
+
+.submit {
+    display: block;
+    float: right;
+    margin-top: 5.6px;
+    margin-left: 20px;   
+   
+}
+
+
+

@@ -1,0 +1,97 @@
+body{
+	width: 510px;
+	margin: auto;
+	background-color: black;
+
+	
+		}
+h1 {
+	text-align: center;
+	margin-top: 67px;
+
+
+}	
+h1 a {
+	text-decoration: none;
+	color:  white;
+}	
+h2 {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	color: white;
+
+}	
+#formulaire {
+
+	
+	margin: auto;
+	text-align: right;
+    background-color:rgb(0, 223, 200) ;
+    font-weight: bold;
+    
+}
+
+input {
+	display: block;
+	width: 150px;
+	float: right;
+	margin-left: 50px;
+	margin-right: 70px;
+
+
+
+
+
+
+	
+}
+
+.valider {
+	margin-top: 30px;
+	margin-right: 105px;
+	
+	
+	
+}
+
+/* Messages non Valides */
+.wrong {
+	color: red;
+	
+	
+	text-align: right;
+	margin-right: 70px;
+
+	margin-top: -13.99px;
+
+	margin-bottom: -28px;
+    
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+
+/* -------------------- */
+.compte_cree {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 40px;
+	font-size: 20px;
+	color: white;
+}
+
+.ampoule {
+    display: block;
+    float: right;
+    margin-top: -33px;
+    margin-left: 470px;
+
+
+    height: 30px;
+    border: 1px solid red;
+   
+
+}
+

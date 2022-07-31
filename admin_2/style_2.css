@@ -1,0 +1,72 @@
+h1, h3
+{
+    text-align:center;
+}
+h3
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin:auto;
+    width: 600px;
+    
+}
+
+.password {  
+ 
+    font-size: 1.5em;
+    color:red;
+    text-align: center;
+    width: 600px;
+    margin:auto;
+}
+
+.news 
+{
+    background-color:rgb(0, 223, 200); 
+    margin-top:0px;
+    width:600px;
+    margin:auto;
+    color:black;
+
+}
+
+
+.commentaires {
+    
+    width: 600px;
+    margin:auto;
+}
+
+.date {
+    font-style: italic;
+}
+
+h2,h4{
+    width: 600px;
+    margin:auto;
+    color:black;
+    
+}
+p {
+    width: 600px;
+    margin:auto;
+    color:black;
+
+}
+
+
+strong {
+    font-size: 1.1em;
+    font-weight: bold;
+    
+}
+
+
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}

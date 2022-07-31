@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "/Applications/MAMP/htdocs/blog_2/admin_2/.htpasswd"
+Require valid-user 
